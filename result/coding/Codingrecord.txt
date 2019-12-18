@@ -1,0 +1,63 @@
+写入的对应文件名字为: histogram_code_space80.csv
+特征空间维度：147样本数 80特征数 4标签数 
+耗时为:6.205508 
+
+写入的对应文件名字为: histogram_code_space80.csv
+特征空间维度：4291样本数 80特征数 47标签数 
+耗时为:332.9380 
+
+写入的对应文件名字为: histogram_code_space120.csv
+特征空间维度：4291样本数 120特征数 47标签数 
+耗时为:338.3652 
+
+写入的对应文件名字为: histogram_code_space160.csv
+特征空间维度：4291样本数 160特征数 47标签数 
+耗时为:337.2787 
+
+写入的对应文件名字为: histogram_code_space200.csv
+特征空间维度：4291样本数 200特征数 47标签数 
+耗时为:339.0902 
+
+写入的对应文件名字为: histogram_code_space_test80.csv
+特征空间维度：1078样本数 80特征数 47标签数 
+耗时为:84.91235 
+
+写入的对应文件名字为: histogram_code_space_test120.csv
+特征空间维度：1078样本数 120特征数 47标签数 
+耗时为:85.46407 
+
+写入的对应文件名字为: histogram_code_space_test160.csv
+特征空间维度：1078样本数 160特征数 47标签数 
+耗时为:82.91623 
+
+写入的对应文件名字为: histogram_code_space_test200.csv
+特征空间维度：1078样本数 200特征数 47标签数 
+耗时为:84.57198 
+
+写入的对应文件名字为: histogram_code_space_frequency80.csv
+特征空间维度：1078样本数 80特征数 47标签数 
+耗时为:84.45575 
+
+写入的对应文件名字为: histogram_code_space_frequency120.csv
+特征空间维度：1078样本数 120特征数 47标签数 
+耗时为:88.20430 
+
+写入的对应文件名字为: histogram_code_space_frequency160.csv
+特征空间维度：1078样本数 160特征数 47标签数 
+耗时为:83.17063 
+
+写入的对应文件名字为: histogram_code_space_frequency200.csv
+特征空间维度：1078样本数 200特征数 47标签数 
+耗时为:84.48852 
+
+
+
+写入的对应文件名字为: histogram_code_space_frequency80.csv
+特征空间维度：4291样本数 80特征数 47标签数 
+耗时为:359.0406 
+写入的对应文件名字为: histogram_code_space_frequency120.csv
+特征空间维度：4291样本数 120特征数 47标签数 
+耗时为:356.6036 
+写入的对应文件名字为: histogram_code_space_frequency160.csv
+特征空间维度：4291样本数 160特征数 47标签数 
+耗时为:361.9843 

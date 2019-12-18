@@ -1,0 +1,41 @@
+echos=2
+文件名: ../result/kmodel80SURF_threshold1000.pkl
+Kmeans参数maxiter为:500
+读取的文件为:../result/SURF_threshhold1000des_train.csv
+n_cluster:80 
+SSE系数：0.09220976999496237
+训练时间:693.8918s 
+
+文件名: ../result/kmodel120SURF_threshold1000.pkl
+Kmeans参数maxiter为:500
+读取的文件为:../result/SURF_threshhold1000des_train.csv
+n_cluster:120 
+SSE系数：0.08625154123727685
+训练时间:704.7557s 
+
+echos=4
+文件名: ../result/kmodel80SURF_threshold1000.pkl
+Kmeans参数maxiter为:500
+读取的文件为:../result/SURF_threshhold1000des_train.csv
+n_cluster:80 
+训练时间:1759.450s 
+SSE系数:0.091780 
+
+文件名: ../result/kmodel160SURF_threshold1000.pkl
+Kmeans参数maxiter为:500
+读取的文件为:../result/SURF_threshhold1000des_train.csv
+n_cluster:160 
+训练时间:722.0251s 
+SSE系数:0.083176 
+文件名: ../result/kmodel200SURF_threshold1000.pkl
+Kmeans参数maxiter为:500
+读取的文件为:../result/SURF_threshhold1000des_train.csv
+n_cluster:200 
+训练时间:722.5619s 
+SSE系数:0.080714 
+文件名: ../result/kmodel50SURF_threshold1000.pkl
+Kmeans参数maxiter为:500
+读取的文件为:../result/SURF_threshhold1000des_train.csv
+n_cluster:50 
+训练时间:707.1524s 
+SSE系数:0.100647 
